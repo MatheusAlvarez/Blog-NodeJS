@@ -18,7 +18,7 @@ Uma ferramenta de blog com funcionalidade de página administrativa com autentic
 
 Projeto desenvolvido atraves do curso de NodeJS
 
-Link do porjeto: https://blog-nodejs-matheus-maia.herokuapp.com/
+Link do projeto: https://blog-nodejs-matheus-maia.herokuapp.com/
 
 ---
 
